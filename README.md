@@ -7,4 +7,12 @@ This repository contains a Python-based number guessing game. The game challenge
 - Random number generation for an unpredictable game experience.
 - Feedback for every guess: "Too High," "Too Low," or "Correct."
 - Configurable difficulty levels to adjust the number of attempts.
-- A fun way to practice Python basics, including loops, conditionals, and input handling.
+- Input validation to ensure valid guesses.
+- Option to play again without restarting the program.
+
+## Installation
+1. Ensure you have Python installed on your system. You can download it from [python.org].
+2. Clone this repository or download the `number_guessing_game.py` file.
+3. Run the game using the following command:
+   ```bash
+   python number_guessing_game.py
