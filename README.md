@@ -15,4 +15,4 @@ This repository contains a Python-based number guessing game. The game challenge
 2. Clone this repository or download the `Guess_the_number.py` file.
 3. Run the game using the following command:
    ```bash
-   Guess_the_number.py
+   python Guess_the_number.py
